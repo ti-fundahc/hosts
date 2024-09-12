@@ -1,0 +1,93 @@
+# Title: StevenBlack/hosts extension streaming
+#
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+#
+# Date: 12 September 2024 14:22:50 (UTC-3:00)
+# The unified hosts file was not used while generating this file.
+# Extensions used to generate this file: Streaming
+# Number of unique domains:
+#
+# Fetch the latest version of this file: 
+# Project home page: https://github.com/StevenBlack/hosts
+# Project releases: https://github.com/StevenBlack/hosts/releases
+#
+# ===============================================================
+
+# Custom host records are listed here.
+
+
+# End of custom host records.
+# Title: Streaming hosts
+# Direct URL: 
+# Updated: September 12, 2024
+
+# Netflix
+0.0.0.0 netflix.com
+0.0.0.0 netflix.net
+0.0.0.0 nflxso.net
+0.0.0.0 nflxvideo.net
+0.0.0.0 nflxext.com
+0.0.0.0 nflximg.com
+0.0.0.0 nflximg.net
+0.0.0.0 cdn.cookielaw.org
+0.0.0.0 cookielaw.org
+0.0.0.0 netflix.com.br
+
+# Primevideo
+0.0.0.0 primevideo.com
+0.0.0.0 m.media-amazon.com
+
+# Twitch.tv
+0.0.0.0 twitch.tv
+0.0.0.0 ttvnw.net
+0.0.0.0 jtvnw.net
+0.0.0.0 twitchcdn.net
+0.0.0.0 live-video.net
+0.0.0.0 ext-twitch.tv
+0.0.0.0 twitch.a2z.com  
+0.0.0.0 global.poe.live-video.net
+0.0.0.0 poe.live-video.net
+0.0.0.0 live-video.net
+0.0.0.0 assets.twitch.tv
+0.0.0.0 k.twitchcdn.net
+0.0.0.0 twitchcdn.net
+0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 static-cdn.jtvnw.net
+
+# Others Players
+crunchyroll.com
+crunchyroll.com.br
+netmovies.com
+netmovies.com.br
+primevideo.com
+primevideo.com.br
+hbomax.com
+hbomax.com.br
+disneyplus.com
+disneyplus.com.br
+looke.com
+looke.com.br
+mubi.com
+mubi.com.br
+starz.com
+starz.com.br
+pluto.tv
+pluto.tv.br
+
+
+# Other
+0.0.0.0 abrir.link
+0.0.0.0 allotalk.com
+0.0.0.0 dnsdyn.net
+0.0.0.0 lidermailbox.dnsdyn.net
+0.0.0.0 mixch.tv
+
+# blacklist
+#
+# The contents of this file (containing a listing of additional domains in
+# 'hosts' file format) are appended to the unified hosts file during the
+# update process. For example, uncomment the following line to block
+# 'example.com':
+
+# 0.0.0.0 example.com
